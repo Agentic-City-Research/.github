@@ -9,6 +9,8 @@ AgenticCity explores how agents with different roles, information,
 and memories interact through shared urban environments,
 and how their decisions shape collective outcomes.
 
+![Project Framework](framework.png)
+
 ## Starting with mobility
 
 Our first implementation is AgenticMobility, a research platform
