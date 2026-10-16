@@ -11,14 +11,14 @@ Building toward interconnected urban simulations, starting with mobility.
 · [Join the discussion](https://github.com/Agentic-City-Research/.github/discussions)
 </div>
 
-![Agentic City research framework](../framework.png)
-
 ## About
 
 AgenticCity explores how agents with distinct roles, information,
 and memories interact through shared urban environments.
 We develop research tools and reproducible simulations to study
 how individual decisions and management policies shape urban outcomes.
+
+![Agentic City research framework](../framework.png)
 
 ## Current project · AgenticMobility
 
