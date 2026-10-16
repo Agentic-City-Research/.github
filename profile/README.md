@@ -40,6 +40,10 @@ through a shared MATSim environment.
 - **Interconnected urban systems:** How persistent agents could
   connect mobility with other urban activities and services.
 
+Our current implementation focuses on mobility.
+Connections to other urban systems are a 
+longer-term research direction.
+
 ## Get involved
 
 We welcome researchers and developers interested in agents,
