@@ -20,7 +20,7 @@ how individual decisions and management policies shape urban outcomes.
 
 ![Agentic City research framework](../framework.png)
 
-## Current project · AgenticMobility
+## Current project · [AgenticMobility](https://github.com/Agentic-City-Research/Agentic-Mobility)
 
 AgenticMobility connects LLM travelers and traffic managers
 through a shared MATSim environment.
