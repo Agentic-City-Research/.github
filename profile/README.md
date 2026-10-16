@@ -8,7 +8,7 @@ Building toward interconnected urban simulations. An Initial Attempt at a Mobili
 
 </div>
 
-![Project Framework](docs/framework.png)
+![Project Framework](framework.png)
 
 ## About
 
