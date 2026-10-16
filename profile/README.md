@@ -2,11 +2,11 @@
 
 # AgenticCity
 
-**An open research for agent-based urban systems.**
+**An open research initiative for agent-based urban systems.**
 
 Building toward interconnected urban simulations, starting with mobility.
 
-[Current project](#current-project)
+[Current project](#current-project--agenticmobility)
 · [Research directions](#research-directions)
 · [Join the discussion](https://github.com/Agentic-City-Research/.github/discussions)
 </div>
@@ -37,8 +37,8 @@ through a shared MATSim environment.
 - **Behavior and memory:** How agents adapt through experience.
 - **Policy and feedback:** How individual decisions and management
   interventions influence one another.
-- **Interconnected urban systems:** How persistent agents could
-  connect mobility with other urban activities and services.
+- **Interconnected urban systems:** How agents connect mobility
+  with other urban activities and services.
 
 Our current implementation focuses on mobility.
 Connections to other urban systems are a 
@@ -46,13 +46,10 @@ longer-term research direction.
 
 ## Get involved
 
-We welcome researchers and developers interested in agents,
-transportation, urban systems, and simulation.
-
-We are particularly interested in contributions to documentation,
-reproducible examples, analysis tools, and simulation scenarios.
-
-Have a research question, scenario idea, or collaboration proposal?
+We welcome researchers and developers working on agents, transportation,
+urban systems, and simulation. Contributions can include documentation,
+reproducible examples, analysis tools, and new scenarios.
 
 [Start a discussion](https://github.com/Agentic-City-Research/.github/discussions)
-and tell us what you would like to explore or contribute.
+to share a research question, propose a collaboration, or discuss
+a contribution.
