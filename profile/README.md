@@ -17,6 +17,7 @@ Our current work starts with transportation. We aim to develop
 research tools and reproducible simulations for studying individual
 behavior, management policies, and their interactions over time.
 
+![Project Framework](framework.png)
 ## Current project
 
 ### AgenticMobility
