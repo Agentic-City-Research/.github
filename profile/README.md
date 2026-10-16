@@ -8,6 +8,8 @@ Building toward interconnected urban simulations. An Initial Attempt at a Mobili
 
 </div>
 
+![Project Framework](docs/framework.png)
+
 ## About
 
 AgenticCity explores how agents make decisions, retain experience,
@@ -17,7 +19,6 @@ Our current work starts with transportation. We aim to develop
 research tools and reproducible simulations for studying individual
 behavior, management policies, and their interactions over time.
 
-![Project Framework](docs/framework.png)
 ## Current project
 
 ### AgenticMobility
