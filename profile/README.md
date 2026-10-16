@@ -4,7 +4,7 @@
 
 **An open research for agent-based urban systems.**
 
-Building toward interconnected urban simulations. An Initial Attempt at a Mobility System.
+Building toward interconnected urban simulations, starting with mobility.
 
 </div>
 
