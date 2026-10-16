@@ -11,32 +11,26 @@ Building toward interconnected urban simulations, starting with mobility.
 · [Join the discussion](https://github.com/Agentic-City-Research/.github/discussions)
 </div>
 
-![Agentic City research framework](https://raw.githubusercontent.com/Agentic-City-Research/.github/main/framework.png)
+![Agentic City research framework](../framework.png)
 
 ## About
 
-AgenticCity explores how agents make decisions, retain experience,
-and interact through shared urban environments.
+AgenticCity explores how agents with distinct roles, information,
+and memories interact through shared urban environments.
+We develop research tools and reproducible simulations to study
+how individual decisions and management policies shape urban outcomes.
 
-Our current work starts with transportation. We aim to develop
-research tools and reproducible simulations for studying individual
-behavior, management policies, and their interactions over time.
+## Current project · AgenticMobility
 
-## Current project
-
-### AgenticMobility
-
-AgenticMobility connects LLM travelers and traffic managers through
-a shared MATSim environment.
-
-Current capabilities include:
+AgenticMobility connects LLM travelers and traffic managers
+through a shared MATSim environment.
 
 - Joint route and departure-time choice.
 - Separate traveler and manager memories.
 - Congestion pricing and traffic feedback.
-- Recorded decisions, policies, and execution outcomes.
+- Traceable decisions, policies, and execution outcomes.
 
-The project is currently being prepared for public release.
+**Status:** Preparing for public release.
 
 ## Research directions
 
