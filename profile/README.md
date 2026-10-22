@@ -11,6 +11,8 @@ Building toward interconnected urban simulations, starting with mobility.
 · [Join the discussion](https://github.com/Agentic-City-Research/.github/discussions)
 </div>
 
+https://github.com/Agentic-City-Research/.github/issues/1
+
 ## About
 
 AgenticCity explores how agents with distinct roles, information,
