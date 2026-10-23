@@ -1,6 +1,6 @@
 <div align="center">
 
-# WHAT IS REAL?
+# Agentic City
 
 **An open research initiative for agent-based urban systems.**
 
